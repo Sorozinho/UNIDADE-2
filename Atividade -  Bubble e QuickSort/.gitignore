@@ -1,0 +1,7 @@
+# Build results
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.DS_Store
