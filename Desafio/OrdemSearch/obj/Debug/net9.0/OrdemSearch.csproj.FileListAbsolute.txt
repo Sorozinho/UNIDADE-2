@@ -1,0 +1,14 @@
+C:\Users\427420\Documents\Desafio\OrdemSearch\bin\Debug\net9.0\OrdemSearch.exe
+C:\Users\427420\Documents\Desafio\OrdemSearch\bin\Debug\net9.0\OrdemSearch.deps.json
+C:\Users\427420\Documents\Desafio\OrdemSearch\bin\Debug\net9.0\OrdemSearch.runtimeconfig.json
+C:\Users\427420\Documents\Desafio\OrdemSearch\bin\Debug\net9.0\OrdemSearch.dll
+C:\Users\427420\Documents\Desafio\OrdemSearch\bin\Debug\net9.0\OrdemSearch.pdb
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\OrdemSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\OrdemSearch.AssemblyInfoInputs.cache
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\OrdemSearch.AssemblyInfo.cs
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\OrdemSearch.csproj.CoreCompileInputs.cache
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\OrdemSearch.dll
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\refint\OrdemSearch.dll
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\OrdemSearch.pdb
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\OrdemSearch.genruntimeconfig.cache
+C:\Users\427420\Documents\Desafio\OrdemSearch\obj\Debug\net9.0\ref\OrdemSearch.dll
